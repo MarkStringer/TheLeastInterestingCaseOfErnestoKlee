@@ -301,29 +301,28 @@ lights to change.
 
 What was he doing now? He was bending down, as if to pick something up,
 but in fact, he was putting something down. He was dropping his
-partially broken phone into gutter, and then deliberately kicking it
+partially broken phone into the gutter. And then deliberately kicking it
 under the wheels of a large truck. The kind that has it's own crane on
 the back, and appeared to be loaded with huge bags of sand, or gravel.
-You may have seen this man, inspect the remains of his obiliterated
-phone after the gravel truck had sailed on up the hill, along the A1
+You may have seen this man inspect the remains of his obiliterated
+phone. Right after the gravel truck had sailed on up the hill, along the A1
 towards Highgate and beyond to the North.
 
-Then you may have seen the man turn around and, looking perhaps slightly
+Then you may have seen the man turn aroun. You see him looking
 surprised that the shop he needed to visit next was right in front of
 him. Ok, the establishment he really needed to visit was the Bent
-Horseshoe just two doors down the road but, regretfully, he knew he
+Horseshoe just two doors down the road. But, regretfully, he knew he
 needed to be sober and awake for at least the next 24 hours.
 
 So, you would have seen this man go into the shop next door but one to
-the Bent Horseshoe -- a shop with a sign that said "Baz's Phone Bits"
-and showed an image of some kind of cartoon mammal -- what was that? A
+the Bent Horseshoe. This was a shop with a sign that said "Baz's Phone Bits"
+and showed an image of some kind of cartoon mammal. What was that? A
 marmot? A blue capybara? Zoologically it was confused. But whether it
 was a rodent, or a marsupial, it was talking into a mobile phone. And it
 looked very happy about it.
 
-If you'd managed to get a close up on his face, you would have seen that
-this man, walking into the blue mammal new to scientists phone shop,
-clearly, wasn't happy about anything.
+If you'd managed to get a close up on his face what would you have seen? You would have seen
+that this man, walking into the unidentified blue mammal phone shop, wasn't happy about anything. 
 
 "Div" "Ernie"
 
@@ -362,8 +361,7 @@ He's in the Whittington beeping -- has been for six months."
 
 "Oddly intelligent idiots bring chickens..." He was doing it in his
 head. Seven? Seven was G. He realised it wasn't much of a code if they
-were on to him. Commented on the video of Michael Bentine's Potty time
-on the video site, making sure that he'd encoded the whole phone number.
+were on to him. He made the comment on the video of Michael Bentine's Potty time.  He made sure that he'd encoded the whole phone number.
 
 Five minutes, and he was checking. Making sure he'd got it right. Maybe
 Jan didn't check it anymore. Come on. Even if he didn't check it every
@@ -393,8 +391,10 @@ they're just trying to scare you."
 "Where are you?" "Somewhere on the M4 doing ninety -- pissing off a dude
 in a black BMW"
 
-"Type this into your satnav -- actually no -- that's probably -- get to
-Birmingham and then ask." "Birmingham." "Yes, Birmingham."
+"Type this into your satnav -- actually no -- that's probably... Get to
+Birmingham and then ask." 
+"Birmingham." 
+"Yes, Birmingham."
 
 "Who the fuck goes to Birmingham?"
 
@@ -410,11 +410,13 @@ look like it's blowing over. And then this thing with Jackie -- it's
 going to make the papers again..." "It has made the papers. And the
 television. I take it you're not listening to the radio."
 
-"I tried turning it on -- I don't know what's going on back there, I
-think the boot is filled with speakers, or techno wildebeest --
-listening to radio 4 on that speaker system just sounds weird."
+"I tried turning it on -- I don't know what's going on back there. I
+think the boot is filled with speakers, or wildebeest in iron boots.
+Listening to radio 4 on that speaker system just sounds weird."
 
-"You could just put it on your phone old man." "You're right."
+"You could just put it on your phone old man." 
+
+"Yes, of course, you're right."
 
 "Let's talk when you're somewhere safe. I'll text you the address and
 the keys are with the neighbour -- a Mrs Ting."
@@ -452,11 +454,11 @@ longer pause.
 glanced next door at number 45 -- where he'd nearly knocked until he
 noticed the "a" in the address. It shared a wall with Mrs Ting's house.
 If she had left the gas on, a spark would have probably taken out 45 and
-45a -- and solved at least one problem for whoever it was who had to
+45a. That would at least have solve one problem for whomever it was who had to
 decide how to number the houses.
 
-And having interrogated, and having been interrogated by Mrs Ting for
-about a minute, his instincts told him that Mrs Ting had left the gas
+Having been interrogated by Mrs Ting for
+about a minute, his instincts told him she had left the gas
 on.
 
 There was a new voice and a new shadow behind the obscured glass.
@@ -467,9 +469,8 @@ lot of red hair. She'd obviously just got out of bed -- possibly at the
 sound of her mother's persistent denials about the gas. A lot of red
 hair and a lot of pale skin since she was only just about covering
 herself in a dressing gown. Noticing that Ernie was noticing, she tried
-to cover herself. It had the unhelpful effect of getting Klee to focus,
-definitely more than he should, on whether she was managing to cover up
-her cleavage.
+to cover herself. It had the unhelpful effect of getting Klee to focus  whether she was managing to cover up
+her cleavage. Yes, he was definitely focusing on that more than he should.
 
 Then she looked up. Then there was eye contact.
 
@@ -494,13 +495,13 @@ through the gap in the door.
 Klee took the offered keys.
 
 But didn't move. He didn't want to move because, really, he would like a
-bit more local knowledge about the house he was moving into, okay, that
+bit more local knowledge about the house he was moving into. Okay, that
 was one reason. The other one was that he didn't really, straight away,
 want to end the conversation.
 
 "Did you know Mr Boht?"
 
-The red-haired woman seemed to be struggling terribly to keep her
+The red-haired woman seemed to be struggling to keep her
 dressing gown together and also hold the door ajar.
 
 "I did, I used to know him quite well when I was a little girl." She
@@ -536,8 +537,8 @@ Awkward pause.
 Slightly more awkward pause.
 
 "Right!" said Klee in the way that would have involved smacking his
-hands on his knees if he'd been sitting down, and indicated to anybody
-English that the meeting was over.
+hands on his knees if he'd been sitting down. It was a tone that indicated to anybody
+English that he was trying to bring the coversation to an end.
 
 "So, where is number 47?"
 
@@ -554,21 +555,19 @@ blinded by just one way of seeing things. That was how you got stuck.
 That was the main problem with being racist, or homophobic or supporting
 Arsenal. Okay, of course it wasn't the main problem.
 
-But seeing things through just one lens as a copper was a
-self-defeating, possibly case-killing problem for a detective.
+But seeing things through just one lens as a copper was a bad idea.
+Getting stuck with just one way of seeing self-defeating. It could kill a case.
 
 Even being a snob. Or an inverse snob. It stopped you seeing a different
 angle, the bigger picture. The bigger picture like a giant Unitarian
 Chapel.
 
-On the drive across country to Kings Norton, on the south side of
-Birmingham, he'd been imagining a terraced house, or possibly something
-grander and more on its own. As he'd got the measure of the area, he'd
-imagined a detached, or semi-detached Victorian villa.
+On the drive across country to Kings Norton he'd formed a picture in his mind. It didn't look like a fancy neighbourhood.
+As he'd got more of a measure of the area, he'd imagined a detached, or semi-detached Victorian villa.
 
 Yes, Pausing had said it was a house an old guy had used as a warehouse.
 But he hadn't imagined it would actually be bigger than a lot of
-warehouses. He was completely lost thinking about this for a few
+warehouses. He was completely lost thinking about this. It was a few
 seconds, before he realised that he still hadn't quite finished the
 conversation with the redhead. The redhead he felt he could now call
 Lilly. He turned back quickly wondering if they might have shut the door
@@ -578,9 +577,8 @@ The door was still ajar. And Lilly was still smiling and looking out of
 it.
 
 "Shut the door and come on in girl. Standing on the doorstep with no
-knickers on." Any first meeting between two English people, who
-immediately found each other, well, quite attractive actually, was going
-to be awkward. But Mrs Ting's intervention managed to make it extremely
+knickers on." Any first meeting between two English people was going to be awkward.
+Especally two who immediately found each other attracive. And recognised the attraction. But Mrs Ting's intervention had made it a lot more
 awkward.
 
 Again the laugh. But perhaps a bit more strained now.
