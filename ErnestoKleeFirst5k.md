@@ -1,4 +1,4 @@
-Chapter 1 -- Prawns
+# Chapter 1 -- Prawns.
 
 You get to know someone very well on a stakeout. Sitting in a car with
 someone for twelve hours, sometimes, more. You get to know them. Often
@@ -17,7 +17,7 @@ He'd thought it many times. Interrogation? It was one way of finding out
 someone's character. Peering into their soul and deciding if they were
 capable of horrible things. Another way might just be to sit in an icy
 car with them for twelve hours and see what happened. What happened?
-When the conversation had run out and there wasn't nothing left to do,
+What happened When the conversation had run out. What were you going to do when there wasn't nothing left to do. Nothing to do
 but sit there, chat and chat and chat, shiver and smell each other's
 farts.
 
@@ -25,9 +25,8 @@ From freezing his balls off in cars all over London with Jackie Spanner,
 Ernesto Klee knew a few things about him.
 
 He knew he was an untidy bastard. The number of half-eaten prawn
-sandwiches he'd peeled off his jacksie because Jackie had
-absent-mindedly left them on the passenger seat. The number of empty
-Lucozade bottles he smacked him over the head with, having found himself
+sandwiches he'd peeled off his jacksie. Jackie would eat all the prawns and leave the crusts. And then absent-mindedly drop them on the passenger seat. The number of empty
+Lucozade bottles! He used to smack Jackie over the head with them. He would find himself
 playing footsie with them in the footwell. The crisps he'd brushed off
 his trouser legs. If Jackie was eating crisps and you were in a car with
 him, you were certainly part of that crisp eating experience. And you
@@ -41,29 +40,22 @@ to catch villains. He got all emotional about it. He didn't like it when
 they got away. It upset him. He got emotionally involved. The more we
 found out about a bad guy, the more he'd take it personally. He'd start
 to hate them. He'd expound about how outrageous it was that they were
-still getting away with it. He'd explain at length -- unnecessarily --
-Klee often thought, what with them both being policemen -- that villains
-should be caught, and stopped.
+still getting away with it. He'd explain at length that villains should be caught, and stopped. Klee would stay serious and agree with him. And then point out it was maybe a bit unnecessary for Jackie to mention this, what with them both being policemen.
 
-And if Jackie was doing this while half-way through consuming a meal
-deal, Klee often found himself leaning back against the passenger window
-and watching as crumbs of half-eaten prawn-cocktail crisps rain like
-snow on the trousers of his off the peg suit.
+And Jackie often did this while half-way through consuming a meal
+deal. Which meant Klee often found himself leaning back against the passenger window. Doing his best to 
+avoid crumbs of half-eaten prawn-cocktail crisps. Crumbs that caught the streetlights from outside the car and rained down like snow. He often yelled at Jacki as he brushed them off the trousers of his off-the-peg suit.
 
 Ernesto Klee knew that there was only one thing that Jackie Spanner
-hated more than villains who were getting away with it. And that was the
+hated more than villains. And that was the
 cold.
 
 The first time you went on a stakeout you made the mistake of not
 dressing for the occasion. Not dressing as if you were on an Arctic
-expedition. You never made it again. In the middle of the night, even in
-summer, if you were sitting still in a car with the heating off and
-nothing but Indonesian curry guffs to keep you company, you could lose a
-few toes to frostbite. Klee himself had a wardrobe full of thermals and
-was constantly wondering if he needed to add an extra layer the moment
-he started to feel or rather, the moment he started to lose the feeling
-in his extremities. Normally an extra pair of thermal socks did the
-trick for most people.
+expedition. You never made it again. In the middle of the night it could be brutally cold. Even in
+summer it could be brass monkeys at three am. You were sitting still in a car with the heating off and
+nothing but Indonesian curry guffs to keep you company. You could be frozen to the bone. Klee himself had a wardrobe full of thermals. 
+Normally an extra pair of thermal socks, and some long johns in a real emergency, did the trick.
 
 Nothing ever seemed to do the trick for Jackie. He never seemed to be
 warm.
@@ -71,38 +63,37 @@ warm.
 A tall bloke, with classic copper's size twelve feet.
 
 The business of him putting on an extra pair of socks in a confined
-space was likely to cause enough commotion to wake the neighbours. Who,
+space wasn't quiet. It was likely to cause enough commotion to wake the neighbours. Maybe even alert the subject of their surveillance. What would they have guessed 
 if they'd seen the boring coloured mid-range solution rocking in the
-middle of the night might have guessed something amorous was going on
-inside. Rather than the truth, that a man too big for a mid-range saloon
+middle of the night? They might have guessed something amorous was going on
+inside. Rather than the truth. The boring reality. A man too big for a mid-range saloon
 was kicking crisp crumbs, sandwich packets and plastic bottles in the
-air trying to put on an extra pair of socks that this time. "Look Ernie
+air. He was sticking his head in the filthy footwell and trying to put on an extra pair of socks. A miracle pair of socks, that this time were really going to keep his feet warm. "Look Ernie
 -- they say they say that bloke Ranulph Fiennes uses these on his
 expeditions! These are the fancy ones. They've got like NASA technology
 in them. Do NASA go on polar expeditions?" They never worked. Ten
 minutes later, when the crisp crumbs and widely recycled PET bottles had
 settled. He'd be complaining again about his feet. And for the three
-hundred and fiftieth time, telling you the story of how Ranulph Fiennes
-had cut off his own toes with secateurs because he couldn't stand the
-pain of frost bite. Well, then why exactly are you buying socks on his
+hundred and fiftieth time, he'd be telling you the story of how Ranulph Fiennes
+had cut off his own toes. He'd cut off his own toes with secateurs in his garden shed because he couldn't stand the
+pain of frost bite. Well then, why exactly are you buying socks on his
 recommendation? But Klee kept this observation to himself. He knew that
-that was exactly the kind of logical argument that pissed detectives
-off. It was actual deduction. Ranulph Fiennes, lost toes to frostbite
-therefore Ranulph Fiennes is shit at picking socks therefore
+that was exactly the kind of logical argument that pissed off detectives
+off. It was actual deduction. Ranulph Fiennes, lost toes to frostbite.
+Therefore Ranulph Fiennes is shit at picking socks. Therefore?
 
-maybe don't buy socks recommended by Ranulph Fiennes.
+Maybe don't buy socks recommended by Ranulph Fiennes.
 
-Although the cos players with the deerstalker wanted to believe
-detective work was about deduction, most of it wasn't.
+This was what the cosplayers with the deerstalkers wanted to believe.
+They wanted to believe detective work was all about deduction. Most of it wasn't.
 
 Inductive reasoning was a lot of it.
 
-Let's say that in the past Gobby Geoff goes round his girlfriend's in
-High Barnet for a shag whenever he's done a successful bank job, and
-goes straight home to his missus in East Finchley if there was a problem
-and didn't work out. That's the kind of reasoning that will send coppers
-running to High Barnet if it looks like Gobby Geoff on the CCTV and
-there's thirty to forty K missing.
+Let's say in the past Gobby Geoff has gone round his girlfriend's in
+High Barnet for a shag. But only when he's done a successful bank job. He
+goes straight home to his missus in East Finchley if there's a problem
+and the blag didn't work out. That's the kind of reasoning that will send coppers
+running to High Barnet. That's if they see Gobby Geoff on the CCTV and it looks like he got away with 40K.
 
 Analogical reasoning, there was some that. You know if there's something
 annoying on the telly? Something too loud, that stops you from thinking?
@@ -111,19 +102,17 @@ Kept doing the same to his noisy neighbours. To be fair he'd asked them
 nicely. Once. Which is kind of where the analogy breaks down. You don't
 politely ask your telly to keep the noise to a low roar. But if the
 neighbours did it again. He'd turn them off. Not with a remote control.
-With a hammer. Thing is he had a job mowing the lawn in a graveyard, and
-that meant he not only, literally knew where the bodies were buried, he
+With a hammer. Thing is he had a job mowing the lawn in a graveyard.
+that meant he literally, knew where the bodies were buried. And he also
 knew where they kept the mini digger that they used to bury them.
-Ironically, it was a complaint from the neighbours, in the houses next
-to the graveyard who, legitimately, expected that the graveyard should
-be a quiet place, that was his undoing.
+Ironically, it was a complaint from the neighbours. That had been his undoing. It's kind of understanable. You buy a new build next to a graveyard. You expect a bit of peace and quiet. Let the dead bury their dead they say. But you don't expect them to do it in the middle of the night. With a digger. 
 
 Most of the reasoning that Klee did, he thought, was with his
 intestines. It was keeping turning over something over, often in the
-middle of the night, because of the awful, awful feeling hovering
-somewhere in your bowels that you'd missed something, or cocked
+middle of the night. It was the awful feeling, hovering
+somewhere in your bowels that you'd missed something. The worry that you'd cocked
 something up. That was most of detective work. What would you call that?
-Dyspeptic reasoning? Colonic reasoning.
+Dyspeptic detection? Colonic reasoning.
 
 But this? This was straight forward deduction. Klee thought that anyway.
 
@@ -132,8 +121,7 @@ Jackie Spanner was untidy. Jackie Spanner hated the cold.
 Jackie Spanner hated villains.
 
 Jackie Spanner hated the cold. So, the thing that Jackie Spanner
-absolutely did not do was walk out onto an icy patio barefoot in only a
-half-length satin dressing gown (it was his wife's).
+absolutely did not do was walk out onto an icy patio barefoot. If he had been going out there, he would have definitely had on his giant shoes, and three pairs of socks.
 
 What Jackie Spanner did not do was sit himself down in a lawn chair at
 2:40 in the morning. And shoot himself in the face with a shotgun. And
@@ -147,14 +135,13 @@ tidied up after himself when he was alive, he certainly wasn't going to
 do it after he was dead.
 
 But Jackie Spanner hated villains. And here's what Jackie Spanner had
-done. Just a couple of hours before he was involved in this semi-naked
-charade on his frost-covered patio, was text Ernesto Klee. "I had an
-idea. Made some enquiries and I think it checks out. The call's coming
-from inside the house. We're nearly there, Ernie. Talk to you tomorrow."
+done. Jackie had text Klee. He'd done it just a couple of hours before he was involved in this semi-naked
+charade on his frost-covered patio.
+"I had an idea. Made some enquiries and I think it checks out. The call's coming
+from inside the house. Yeah we knew that, but now we've got the extension numnber. We're nearly there, Ernie. Talk to you tomorrow."
 
-Do you know a thing that Jackie Spanner loved? Horror movies. Actually,
-probably the thing Jackie Spanner loved more than anything else was
-relating the plot of horror movies to his stakeout partner at 3am while
+Do you know a thing that Jackie Spanner loved? Horror movies. 
+Jackie Spanner loved retelling the plot of horror movies. Especially, he loved doing this to his stakeout partners at 3am. And when he was relating a particularly gory section, he was probably
 eating prawn cocktail crisps. Do you know the kind of villains Jackie
 Spanner hated the most? The ones that were hiding among the ranks of his
 own police force.
@@ -162,15 +149,12 @@ own police force.
 Jackie had been told many times to stop investigating the death of Aimee
 Finch. A journalist who had been beaten to death by someone, just out of
 camera shot, in the car park of the Greenhouse pub in Muswell Hill.
-Jackie hadn't listened. The idea that, on the night when he finally
-thought he'd got to the bottom of what happened, and who had killed her,
-he would waltz barefoot into the night in inappropriate nightwear was
-laughable. The idea that, after shooting himself, he'd tidy up, was
-about as likely as him doing it if he'd still been alive.
+Jackie hadn't listened. So this is what we're supposed to believe, thought Klee. On that night, of all nights, the night when he finally
+thought he'd got to the bottom of what happened. The night when he thought he finally knew who'd killed her. That's the night
+he would waltz barefoot into the night in inappropriate nightwear. And then, after shooting himself, he'd tidy up. That was even more ridiculous. Jackie Spanner never tidied up after himself when he was alive. Why would he start doing it after he was dead?
 
-So, deduction told Klee that Jackie Spanner hadn't killed himself, and
-so it didn't require genius level deduction to go one step further and
-realise that meant that someone else had shot him.
+So, deduction told Klee that Jackie Spanner hadn't killed himself. And, having established that,
+it didn't require genius level deduction to go one step further. You didn't have to be Socrates to twig that meant someone else did kill him.
 
 But are you sure about this Klee? It sounds great as a theory. But does
 it really hang together? What about abductive logic? What's abductive
@@ -191,37 +175,43 @@ they'd own up to it?
 
 Horses Klee, not zebras and definitely not a herd of satyrs or unicorns.
 
-But here's why Klee was absolutely certain that the "simplest"
-explanation wasn't the right one. Here's why Klee was absolutely sure
-that the evidence surrounding Jackie Spanner's death indicated, not
-horses, not zebras, not unicorns, and not satyrs, but something far less
-mythical, bent Met coppers trying to cover their arse.
+But here's why Klee was certain the "simplest"
+explanation of Jackie's death wasn't the right one. Here's why Klee thought
+the evidence didn't suggest zebras or unicorns. It suggested something far less
+mythical. The evidence suggested bent Met coppers trying to cover their arse.
 
 At 11:29 on the night of his death, Jackie Spanner phones the Crytal
 Palace Tandoori and Grill. Since his wife had left, he'd done this most
-nights. This, he knew was the absolute latest point at which Mohammed
-Hossain, owner of the CPTG would take his order, and that he'd get the
-delivery just after midnight. And Mr Hossain, delivered the order
+nights. This, he knew, was the absolute latest point at which Mohammed
+Hossain, owner of the CPTG would take his order. He also knew he'd get the
+delivery just after midnight. And Mr Hossain delivered the order
 himself. He'd got into the habit of doing it on his way home. He chatted
 to Jackie for a few moments.
 
 What had Jackie ordered? What had Mr Hossain delivered? A king prawn
 biriyani. So, we're back to deduction. What did Jackie love more than
 anything else in the world? More than anything in the world that was,
-apart from his wife who'd left him and justice? Prawns. OK, Jackie might
-have lost his mind and started putting on his wife's lingerie. OK, he
+apart from his wife who'd left him and justice? Prawns. 
+
+I am a prawn.
+Socrates likes prawns.
+Socrates is going to eat me.
+
+Well, in this case, Jackie. But you get the idea.
+
+OK, Jackie might have lost his mind and started putting on his wife's lingerie. OK, he
 might have decided that suffering the cold was as nothing now he was
 saying goodbye to this cruel world. And yes, someone moron on probation
 might have moved the gun.
 
 But one thing was absolutely certain. If Jackie had decided to give
-himself a shove and shuffle himself off this mortal coil, he wouldn't
-have done it before he'd eaten all his prawns.
+himself a shove and shuffle himself off this mortal coil, 
+he would have eaten all his prawns first.
 
-Chapter 2 -- Mr Muscle
+# Chapter 2 -- Mr Muscle
 
 Klee later thought about what anyone would have seen if they were
-watching him that bright April afternoon when, in the space of about 30
+watching him that bright April afternoon. If they happend to be watching when, in the space of about 30
 seconds, he decide that he was on the run. They would have seen a man
 walking down the street, walking down Archway Road. Towards the big
 smoke. The bells down there somewhere in the City that told Dick
@@ -234,11 +224,10 @@ inside, in the house! I want to see the table? What? Of course it's on a
 tray. He'd have been watching. Columbo with it on his knee! Show me the
 curry on the tray."
 
-Maybe there's probably a special name for this move, if you forked out
-for a mime class -- and Ernesto Klee was in North London, and that was
+There's probably a name for this move. You'd probably know the name if you forked out
+for a mime class. And Ernesto Klee was in North London. And that was
 the kind of thing that many people in North London seemed to do. Mime
-classes, improv classes, comedy classes, year-long existential French
-clowning retreats in Wood Green. In some people the money / sense ratio
+classes, improv classes, comedy classes they happen in North London. There are clowning retreats. Not just ordinary clowning, the existential French kind, that isn't actually about comedy. You can sign up just round the corner in Wood Green. In some people the money / sense ratio
 isn't exactly burying the needle towards sense.
 
 Now, thinking back on the moment, Klee could here the voiceover -- was
@@ -263,34 +252,33 @@ Ernesto Klee had never been near a mime class. Actually he'd once talked
 to a Belgian improv instructor who was a suspect in a murder, whose BO
 was like walking into a glass wall.
 
-And he'd been in a sensitivity workshop and Hendon once where the lady
-instructor, who was more used to dealing with teenage knife criminals,
-had suggested that the seasoned coppers try to sympathise with -- well -
-teenage knife criminals, and there'd nearly been a riot.
+And he'd been in a sensitivity workshop at Hendon once. The lady
+instructor didn't look like anything would scare her. She was more used to dealing with teenage knife criminals than coppers.
+She suggested that the coppers do what she thought was the very basics of any sensitivity workshop. How about the coppers just took a minute to put themselves in the shoes of the criminals. How about they try to sympathise with them? There'd nearly been a riot.
 
 He liked to think that he was at the liberal, cuddly, fluffy end of the
-political spectrum of policemen, but that didn't mean you were getting
+political spectrum of policemeni. But that didn't mean you were getting
 him to put on a leotard.
 
-But right now, on the pavement, in front of the Happy Sausage Cafe and
+But there he was! On the pavement, in front of the Happy Sausage Cafe. There he was
 within sight of the drinkers sitting out in the sun in front of the Bent
-Horseshoe pub, he performed his own perfect "mur de verre." It was, as
+Horseshoe pub. There he was he performing his own perfect "mur de verre." It was exactly as
 if he'd walked straight into a glass wall. An unexpected, solid object
 that stopped him in his tracks.
 
-The solid object he'd walked into smack and rattled every bone in his
-body, as if it had been an unexpected, invisible wall was a realisation.
+The solid object he'd walked into smack! The one that seemed to rattle every bone in his
+body, as if it had been an unexpected, invisible wall, was a realisation.
 And the realization was this - Jackie Spanner had been murdered. That
 man had never met a prawn he didn't like. If it had been his last night
 on earth and he had any choice in the matter, he would have finished off
-the king prawns before he topped himself.
+the king prawns. Even if topping himself was on the agenda for later, he'd would have left a king prawn behind.
 
 What you would have seen next might have seemed even more peculiar. The
 slightly unkempt, slightly shabby man, throw the phone that he'd just
 been looking down onto the pavement. Klee realized now, thinking back on
-it, that it was a bit too performative. Depending on your character,
-you, the observer, might have decided to avert your gaze when you
-realized that this was a crazy person. Because that's what he must have
+it, that it was a bit too performative. Now this is a question of your character - you the theoretical, observer.
+Maybe you would have averted your gaze. Looked away, When you
+realized the person you'd become fascinated in watching was a crazy person. Or maybe you would have been utterly fascinated and unable to tear yourself away from the crazy person. Because that's what he must have
 looked like. What else could explain throwing his phone on the ground
 and jumping up and down on it?
 
@@ -344,7 +332,7 @@ look." "I suppose you're right about that. OK, twenty minutes."
 
 "The colour's just a bit bright. Key Lime Pie, it's called."
 
-"That's Hollywood horror movie ectoplasm green. And are those flames
+"That's Hollywood horror movie green. That's ectoplasm green. And are those flames
 down the side?" "Nav said it was bright,"
 
 Nav was Div's wife. She was the reason he wasn't in jail. When Klee
@@ -423,7 +411,7 @@ the keys are with the neighbour -- a Mrs Ting."
 
 "Mrs Ting?"
 
-Chapter 3 -- Keys
+# Chapter 3 -- Keys
 
 Number 45a?
 
@@ -590,7 +578,7 @@ And now the door was shut.
 Although through it, he could hear Lily say just one irritated word,
 "Mother!"
 
-Chapter 4 -- Tent
+# Chapter 4 -- Tent
 
 The place was huge. He supposed the key was a clue. A giant thing. Rusty
 at one end. Turning in a giant lock in a giant door.
