@@ -4,11 +4,11 @@
 
 **Ernesto Klee**
 Former detective, protagonist. Pronounces his name "Clay" (everyone else says it to rhyme with "free"). Wardrobe full of thermals. Addicted to buses, burgers (Billy's Burgers, always the same order), and four-shot coffees. Ex-wife has left but is unaccounted for. Suffers from 4:44am dread. Now working as a live-in security guard in a deconsecrated Unitarian chapel in Kings Norton, Birmingham.
-_Chapters: 1–14_
+_Chapters: 1, 1.5, 2–14_
 
 **Jackie Spanner**
 Klee's former stakeout partner and closest friend. Tall, giant size-twelve feet, chronically untidy, always eating prawn cocktail crisps. Obsessed with catching corrupt police. Loved horror movies and prawns. Found dead on his icy patio – barefoot, in his wife's dressing gown, with a shotgun. Klee is certain he was murdered. Had texted Klee hours before his death: "The call's coming from inside the house."
-_Chapters: 1, 2, 4, 5, 7, 14_
+_Chapters: 1, 1.5, 2, 4, 5, 7, 14_
 
 **Yannick Pausing**
 Klee's former sergeant (corrects Klee at the end: he was actually promoted to inspector just before he resigned). Still in contact with Klee via covert YouTube cypher — Klee posts an encoded message on an agreed video and Pausing calls him back. Arranged the Birmingham chapel job as cover for Klee. Owns a corgi called Maggie, left behind by a former partner.
@@ -85,6 +85,10 @@ _Chapter: 1_
 ---
 
 ## Minor / Background Characters
+
+**Mrs Petaloudes**
+Klee's neighbour on his old street. Feeds birds compulsively — originally in the park, but was banned and received an ASBO for it. Her son-in-law negotiated a workaround: feeding grain on the street rather than duck bread in the park. Wears all black including headscarf, drags a black shopping cart. Attended by a retinue of pigeons, enormous seagulls, and ducks who have apparently followed her from the park. Her habit of spreading grain across car bonnets triggers the explosion that ends Chapter 1.5.
+_Chapter: 1.5_
 
 **Elaine Sketchley**
 Someone Klee slept with. Described as a "bad idea."
