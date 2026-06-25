@@ -106,6 +106,8 @@ _Chapter: 12_
 Pausing's corgi. Left behind by a previous partner.
 _Chapter: 4_
 
+> _Easter egg (Ch 15):_ in Klee's local café, a thirtysomething woman with short hair and no wedding ring has two dogs – one a poodle-ish cross, the other "the shape of a corgi, but with grey-blue spots on a white background" and "pale, grey-blue eyes." Klee doesn't remark on it, but the description pointedly echoes Maggie, hinting at a Pausing connection lurking near Klee without his noticing.
+
 **Kevin ("Jewish Kevin")**
 The friend whose live-in security guard business Pausing is covering. Rediscovered his Jewish heritage after his divorce, came into money (in the wrong order for the ex-wife), went to the south of France and met someone. Away indefinitely.
 _Chapter: 4_
