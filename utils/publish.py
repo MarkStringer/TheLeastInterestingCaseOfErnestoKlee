@@ -41,6 +41,13 @@ def chapter_sort_key(filename):
     return (float(m.group(1)), filename) if m else (float('inf'), filename)
 
 
+def strip_leading_zeros(num_str):
+    """'001' -> '1', '001.5' -> '1.5' so zero-padded filenames display unpadded."""
+    head, dot, frac = num_str.partition('.')
+    head = head.lstrip('0') or '0'
+    return head + dot + frac
+
+
 def chapter_anchor(num_str):
     return 'chapter-' + num_str.replace('.', '-')
 
@@ -50,7 +57,7 @@ def parse_filename(filename):
     m = re.match(r'Chapter (\d+(?:\.\d+)?) - (.+?)\.docx$', filename)
     if not m:
         return None, None, None
-    num_str = m.group(1)
+    num_str = strip_leading_zeros(m.group(1))
     subtitle = m.group(2)
     heading_text = f"Chapter {num_str} — {subtitle}"
     return num_str, subtitle, heading_text
