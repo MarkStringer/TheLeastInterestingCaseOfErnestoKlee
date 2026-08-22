@@ -1,0 +1,18 @@
+# Word temp and lock files
+~$*
+~WRL*.tmp
+*.asd
+*.wbk
+
+# Vim swap files
+*.swp
+*.swo
+*~
+
+# Python bytecode (utils/)
+__pycache__/
+*.pyc
+
+# OS cruft
+Thumbs.db
+.DS_Store
