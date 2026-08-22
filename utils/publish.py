@@ -1,15 +1,34 @@
 #!/usr/bin/env python3
 """Regenerate ernesto-klee.md from Chapter*.docx files and push to GitHub Pages."""
 
+import argparse
 import os
 import re
 import subprocess
 import sys
 from docx import Document
 
-CHAPTERS_DIR = "/home/mark/projects/TheLeastInterestingCaseOfErnestoKlee"
-SITE_DIR = "/home/mark/projects/MarkStringer.github.io"
-OUTPUT_FILE = os.path.join(SITE_DIR, "ernesto-klee.md")
+# Defaults: the chapters live in the repo this script ships in, and the site
+# repo sits beside that repo. Override with --chapters-dir / --site-dir, or the
+# KLEE_CHAPTERS_DIR / KLEE_SITE_DIR environment variables.
+DEFAULT_CHAPTERS_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+DEFAULT_SITE_DIR = os.path.join(os.path.dirname(DEFAULT_CHAPTERS_DIR),
+                                "MarkStringer.github.io")
+OUTPUT_NAME = "ernesto-klee.md"
+
+CHAPTERS_DIR = os.environ.get("KLEE_CHAPTERS_DIR", DEFAULT_CHAPTERS_DIR)
+SITE_DIR = os.environ.get("KLEE_SITE_DIR", DEFAULT_SITE_DIR)
+OUTPUT_FILE = os.path.join(SITE_DIR, OUTPUT_NAME)
+
+
+def set_paths(chapters_dir=None, site_dir=None):
+    """Point the script at a chapters repo and a site repo."""
+    global CHAPTERS_DIR, SITE_DIR, OUTPUT_FILE
+    if chapters_dir:
+        CHAPTERS_DIR = os.path.abspath(os.path.expanduser(chapters_dir))
+    if site_dir:
+        SITE_DIR = os.path.abspath(os.path.expanduser(site_dir))
+    OUTPUT_FILE = os.path.join(SITE_DIR, OUTPUT_NAME)
 
 PREAMBLE = """\
 ---
@@ -81,7 +100,28 @@ def extract_content(path, subtitle):
     return '\n\n'.join(non_empty)
 
 
-def main():
+def parse_args(argv=None):
+    ap = argparse.ArgumentParser(description=__doc__)
+    ap.add_argument('--chapters-dir', default=None,
+                    help='directory holding the Chapter*.docx files '
+                         '(default: %s)' % DEFAULT_CHAPTERS_DIR)
+    ap.add_argument('--site-dir', default=None,
+                    help='the GitHub Pages repo to write and push to '
+                         '(default: %s)' % DEFAULT_SITE_DIR)
+    return ap.parse_args(argv)
+
+
+def main(argv=None):
+    args = parse_args(argv)
+    set_paths(args.chapters_dir, args.site_dir)
+
+    if not os.path.isdir(CHAPTERS_DIR):
+        print("No such chapters directory: %s" % CHAPTERS_DIR, file=sys.stderr)
+        sys.exit(1)
+    if not os.path.isdir(SITE_DIR):
+        print("No such site directory: %s" % SITE_DIR, file=sys.stderr)
+        sys.exit(1)
+
     files = sorted(
         [f for f in os.listdir(CHAPTERS_DIR)
          if f.startswith('Chapter') and f.endswith('.docx')],
@@ -126,7 +166,8 @@ def main():
         f.write(output)
     print(f"\nWritten: {OUTPUT_FILE}")
 
-    subprocess.run(['git', 'add', 'ernesto-klee.md'], cwd=SITE_DIR, check=True)
+    subprocess.run(['git', 'add', os.path.basename(OUTPUT_FILE)],
+                   cwd=SITE_DIR, check=True)
 
     result = subprocess.run(['git', 'diff', '--cached', '--quiet'], cwd=SITE_DIR)
     if result.returncode == 0:
